@@ -2,11 +2,10 @@
 
 hot fix
 
-<<<<<<< HEAD
+
 
 add
 
 master
-=======
+
 hot2
->>>>>>> hot-fix
